@@ -1,0 +1,12 @@
+2020/11/11 06:24:58 Loading data from dataFile.gob
+2020/11/11 06:24:58 Could not open data file: open dataFile.gob: no such file or directory
+2020/11/11 06:24:58 open dataFile.gob: no such file or directory
+2020/11/11 06:27:25 Loading data from dataFile.gob
+2020/11/11 06:27:25 Could not open data file: open dataFile.gob: no such file or directory
+2020/11/11 06:27:25 open dataFile.gob: no such file or directory
+2020/11/11 06:27:30 Someone looked up key 1
+2020/11/11 06:27:30 Added new item with key 1, value {2 3 }
+2020/11/11 06:27:31 Someone looked up key 4
+2020/11/11 06:27:31 Added new item with key 4, value {5 6 }
+2020/11/11 06:27:34 Saving data to dataFile.gob
+2020/11/11 06:27:34 Could not remove existing data file: remove dataFile.gob: no such file or directory
